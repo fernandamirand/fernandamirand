@@ -2,7 +2,7 @@
 
 
 - 🔭 Meu objetivo é trabalhar com Front-End
-- 🌱 Estudando ReactJs
+- 🌱 Estudando React Native e ReactJs
 
 
 <div align="center">
