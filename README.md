@@ -1,7 +1,6 @@
 ### Olá, eu sou a Fernanda Miranda 👋
 
 
-- 🔭 Meu objetivo é trabalhar com Front-End
 - 🌱 Estudando React Native e ReactJs
 
 
