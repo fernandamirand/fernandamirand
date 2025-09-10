@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando React Native e ReactJs
-
+- Obrigada por acessar o meu perifl!
 
 <div align="center">
   <a href="https://github.com/fernandamirand">
